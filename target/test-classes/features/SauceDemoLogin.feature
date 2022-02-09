@@ -31,6 +31,4 @@ Feature: Sauce Demo Login
       | standard      | standard===    |
       | standard123   | standard652    |
       
-      1950 - 2005
-      
-      Scenario: pass 1949, pass 2006
+    
